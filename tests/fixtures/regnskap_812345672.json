@@ -1,0 +1,13 @@
+[
+  {"id": 1, "journalnr": "2025000001", "regnskapstype": "SELSKAP", "valuta": "NOK",
+   "regnskapsperiode": {"fraDato": "2024-01-01", "tilDato": "2024-12-31"},
+   "virksomhet": {"organisasjonsnummer": "812345672", "organisasjonsform": "AS"},
+   "eiendeler": {"sumEiendeler": 5000000},
+   "egenkapitalGjeld": {"sumEgenkapitalGjeld": 5000000, "egenkapital": {"sumEgenkapital": 2000000}, "gjeldOversikt": {"sumGjeld": 3000000}},
+   "resultatregnskapResultat": {"ordinaertResultatFoerSkattekostnad": 800000, "aarsresultat": 624000,
+     "driftsresultat": {"driftsresultat": 780000, "driftsinntekter": {"sumDriftsinntekter": 14000000}, "driftskostnad": {"sumDriftskostnad": 13220000}}}},
+  {"id": 2, "journalnr": "2025000002", "regnskapstype": "SELSKAP", "valuta": "NOK",
+   "regnskapsperiode": {"fraDato": "2024-01-01", "tilDato": "2024-12-31"},
+   "virksomhet": {"organisasjonsnummer": "999999999"},
+   "resultatregnskapResultat": {"aarsresultat": 1}}
+]

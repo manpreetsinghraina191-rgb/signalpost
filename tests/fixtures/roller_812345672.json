@@ -1,0 +1,18 @@
+{
+  "rollegrupper": [
+    {"type": {"kode": "DAGL", "beskrivelse": "Daglig leder/ adm.direktør"}, "sistEndret": "2023-05-10",
+     "roller": [{"type": {"kode": "DAGL", "beskrivelse": "Daglig leder/ adm.direktør"},
+                 "person": {"fodselsdato": "1980-01-01", "navn": {"fornavn": "Kari", "etternavn": "Testesen"}, "erDoed": false},
+                 "fratraadt": false}]},
+    {"type": {"kode": "STYR", "beskrivelse": "Styre"}, "sistEndret": "2024-06-01",
+     "roller": [
+       {"type": {"kode": "LEDE", "beskrivelse": "Styrets leder"},
+        "person": {"fodselsdato": "1970-01-01", "navn": {"fornavn": "Ola", "etternavn": "Prøvesen"}, "erDoed": false}, "fratraadt": false},
+       {"type": {"kode": "MEDL", "beskrivelse": "Styremedlem"},
+        "person": {"fodselsdato": "1975-01-01", "navn": {"fornavn": "Gammel", "etternavn": "Medlem"}, "erDoed": false}, "fratraadt": true}
+     ]},
+    {"type": {"kode": "REVI", "beskrivelse": "Revisor"}, "sistEndret": "2020-01-15",
+     "roller": [{"type": {"kode": "REVI", "beskrivelse": "Revisor"},
+                 "enhet": {"organisasjonsnummer": "999999999", "navn": ["REVISJON EKSEMPEL AS"]}, "fratraadt": false}]}
+  ]
+}
