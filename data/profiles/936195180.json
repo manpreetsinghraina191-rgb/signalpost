@@ -1,0 +1,348 @@
+{
+  "orgnr": "936195180",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:45Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "2H HOLDING AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-09-25",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-08-22",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Hjalmar Johansens vei 6, 7020 TRONDHEIM",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "TRONDHEIM (5001)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "00.000 Uoppgitt",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Erverve og eie aksjer og andeler i andre selskaper, handel i finansielle instrumenter samt all annen virksomhet som naturlig hører derved.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": "2025-08-22",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Holdingselskap.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Karl-Henrik Olsen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180/roller",
+      "retrieved_at": "2026-10-14T07:29:57Z",
+      "as_of": "2025-09-25",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.1",
+      "value": {
+        "role": "Accountant",
+        "name": "ECIT SERVICES AS",
+        "orgnr": "993800139"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180/roller",
+      "retrieved_at": "2026-10-14T07:29:57Z",
+      "as_of": "2025-09-25",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 15753.0,
+        "currency": "NOK",
+        "period": "2025-08-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936195180, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -15753.0,
+        "currency": "NOK",
+        "period": "2025-08-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936195180, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -43570.0,
+        "currency": "NOK",
+        "period": "2025-08-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936195180, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -53559.0,
+        "currency": "NOK",
+        "period": "2025-08-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936195180, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 9891288.0,
+        "currency": "NOK",
+        "period": "2025-08-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936195180, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 9878187.0,
+        "currency": "NOK",
+        "period": "2025-08-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936195180, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 13102.0,
+        "currency": "NOK",
+        "period": "2025-08-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936195180, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195180",
+      "confidence": "high"
+    }
+  ],
+  "summary": "2H HOLDING AS (936195180) is registered as Aksjeselskap (AS) based in Trondheim, registered 2025-09-25. Main industry: 00.000 Uoppgitt. Chair: Karl-Henrik Olsen. Filed accounts for 2025: net result -53 559 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180",
+      "retrieved_at": "2026-10-14T07:29:56Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195180/roller",
+      "retrieved_at": "2026-10-14T07:29:57Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/936195180",
+      "retrieved_at": "2026-10-14T07:29:58Z"
+    }
+  ],
+  "errors": []
+}

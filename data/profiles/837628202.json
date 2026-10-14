@@ -1,0 +1,341 @@
+{
+  "orgnr": "837628202",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:47Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3H BYGG TJENESTER AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2026-05-23",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2026-03-06",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Mildegeilen 38, 5259 HJELLESTAD",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "BERGEN (4601)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "41.000 Oppføring av bygninger",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Byggtjenester, samt dertil forbundet virksomhet.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": "2026-03-06",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Tømrer, oppføring og vedlikehold av bygninger.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Charlie Kalleklev"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202/roller",
+      "retrieved_at": "2026-10-14T07:34:49Z",
+      "as_of": "2026-05-23",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Richard Kalleklev"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202/roller",
+      "retrieved_at": "2026-10-14T07:34:49Z",
+      "as_of": "2026-05-23",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/837628202",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3H BYGG TJENESTER AS (837628202) is registered as Aksjeselskap (AS) based in Bergen, registered 2026-05-23. Main industry: 41.000 Oppføring av bygninger. CEO: Charlie Kalleklev. Chair: Richard Kalleklev. 18 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Tømrer, oppføring og vedlikehold av bygninger.",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Mildegeilen 38, 5259 HJELLESTAD",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2026-03-06",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "41.000 Oppføring av bygninger",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "BERGEN (4601)",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3H BYGG TJENESTER AS",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Byggtjenester, samt dertil forbundet virksomhet.",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2026-05-23",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Charlie Kalleklev"
+      },
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Richard Kalleklev"
+      },
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:47Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:47Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202",
+      "retrieved_at": "2026-10-14T07:34:48Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/837628202/roller",
+      "retrieved_at": "2026-10-14T07:34:49Z"
+    }
+  ],
+  "errors": []
+}

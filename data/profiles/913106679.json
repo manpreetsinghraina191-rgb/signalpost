@@ -1,0 +1,654 @@
+{
+  "orgnr": "913106679",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:44Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "2BH ENEBAKKVEIEN 305 AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2014-01-21",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2013-12-16",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "c/o Lasse Amundsen, Cappelens vei 18B, 1162 OSLO",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "OSLO (0301)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "email",
+      "value": "lasse@amundseninvest.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "mobile",
+      "value": "913 35 777",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Eiendomsutvikling og eiendomsdrift, herunder erverv, utvikling, drift, salg og utleie av fast eiendom. Det skal være anledning til å eie aksjer og andeler i andre selskaper, samt hva herved naturlig står i forbindelse.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": "2013-12-16",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Utleie av næringsvirksomhet.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Lasse Amundsen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679/roller",
+      "retrieved_at": "2026-10-14T07:29:43Z",
+      "as_of": "2014-01-21",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.1",
+      "value": {
+        "role": "Board member",
+        "name": "Bjørn Tommy Amundsen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679/roller",
+      "retrieved_at": "2026-10-14T07:29:43Z",
+      "as_of": "2014-01-21",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REVI.2",
+      "value": {
+        "role": "Auditor",
+        "name": "NARUM REVISJON AS",
+        "orgnr": "919789980"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679/roller",
+      "retrieved_at": "2026-10-14T07:29:43Z",
+      "as_of": "2018-01-09",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.3",
+      "value": {
+        "role": "Accountant",
+        "name": "PROGRESSUM AS",
+        "orgnr": "889380802"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679/roller",
+      "retrieved_at": "2026-10-14T07:29:43Z",
+      "as_of": "2023-12-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 5843070.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 2241215.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": 3601855.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": 2251833.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": 1756430.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 36391609.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 3801808.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 32589801.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "value": {
+        "amount": 5706126.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "value": {
+        "amount": 1938353.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "value": {
+        "amount": 3767773.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": 2078813.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": 1617015.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 35222270.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": 2279903.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 32942367.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "value": {
+        "amount": 8346145.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "value": {
+        "amount": 2879966.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "value": {
+        "amount": 5466179.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "value": {
+        "amount": 5274073.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "value": {
+        "amount": 4402768.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "value": {
+        "amount": 38929266.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.equity",
+      "value": {
+        "amount": 832308.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "value": {
+        "amount": 38096958.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 913106679, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913106679",
+      "confidence": "high"
+    }
+  ],
+  "summary": "2BH ENEBAKKVEIEN 305 AS (913106679) is registered as Aksjeselskap (AS) based in Oslo, registered 2014-01-21. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Chair: Lasse Amundsen. Filed accounts for 2025: revenue 5 843 070 NOK, net result 1 756 430 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679",
+      "retrieved_at": "2026-10-14T07:29:42Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/913106679/roller",
+      "retrieved_at": "2026-10-14T07:29:43Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/913106679",
+      "retrieved_at": "2026-10-14T07:29:44Z"
+    }
+  ],
+  "errors": []
+}

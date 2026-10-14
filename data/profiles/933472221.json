@@ -1,0 +1,363 @@
+{
+  "orgnr": "933472221",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:43Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "24/7 BILVASK AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2024-05-21",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2024-05-07",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Nesgata 6B, 2004 LILLESTRØM",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "LILLESTRØM (3205)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "95.310 Reparasjon og vedlikehold av motorvogner",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Selvvask, maskinvask av biler og andre produkter/tjenester som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": "2025-11-26",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Selvvask av biler.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2024",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Abtin Rahmanian"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221/roller",
+      "retrieved_at": "2026-10-14T07:29:20Z",
+      "as_of": "2025-12-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.1",
+      "value": {
+        "role": "Accountant",
+        "name": "SILFER AS",
+        "orgnr": "933119610"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221/roller",
+      "retrieved_at": "2026-10-14T07:29:20Z",
+      "as_of": "2026-06-02",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "value": {
+        "amount": 673526.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "value": {
+        "amount": 613306.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "value": {
+        "amount": 60220.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": 58291.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": 45467.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 115321.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": 75467.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 39854.0,
+        "currency": "NOK",
+        "period": "2024-05-07..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 933472221, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933472221",
+      "confidence": "high"
+    }
+  ],
+  "summary": "24/7 BILVASK AS (933472221) is registered as Aksjeselskap (AS) based in Lillestrøm, registered 2024-05-21. Main industry: 95.310 Reparasjon og vedlikehold av motorvogner. Chair: Abtin Rahmanian. Filed accounts for 2024: revenue 673 526 NOK, net result 45 467 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221",
+      "retrieved_at": "2026-10-14T07:29:19Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/933472221/roller",
+      "retrieved_at": "2026-10-14T07:29:20Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/933472221",
+      "retrieved_at": "2026-10-14T07:29:21Z"
+    }
+  ],
+  "errors": []
+}

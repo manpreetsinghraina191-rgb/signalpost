@@ -1,0 +1,784 @@
+{
+  "orgnr": "911962241",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:00Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3B HYTTESERVICE AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2013-05-21",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2013-04-30",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "v/Frode Borren, Fortunalia 73, 7059 JAKOBSLI",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "TRONDHEIM (5001)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Selskapet skal leie ut fritidsboliger og oppgradere fritidseiendommer for videresalg.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": "2013-04-30",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Selskapet skal leie ut fritidsboliger og oppgradere fritidseiendommer for videresalg.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Frode Borren"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z",
+      "as_of": "2013-05-21",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Terese Katrin Brekke"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z",
+      "as_of": "2026-06-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Katrine Brekke Borren"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z",
+      "as_of": "2026-06-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "value": {
+        "role": "Board member",
+        "name": "Janne Losen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z",
+      "as_of": "2026-06-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.4",
+      "value": {
+        "role": "Accountant",
+        "name": "TRIVIX AS",
+        "orgnr": "930261890"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z",
+      "as_of": "2025-08-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": -384687.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 384687.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": -384687.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 384687.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.equity",
+      "value": {
+        "amount": -384687.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "value": {
+        "amount": 384687.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 911962241, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/911962241",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3B HYTTESERVICE AS (911962241) is registered as Aksjeselskap (AS) based in Trondheim, registered 2013-05-21. Main industry: 68.200 Utleie av egen eller leid fast eiendom. CEO: Frode Borren. Chair: Terese Katrin Brekke. Filed accounts for 2025: net result 0 NOK. 36 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Selskapet skal leie ut fritidsboliger og oppgradere fritidseiendommer for videresalg.",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "v/Frode Borren, Fortunalia 73, 7059 JAKOBSLI",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2023.equity",
+      "old": null,
+      "new": {
+        "amount": -384687.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "old": null,
+      "new": {
+        "amount": 384687.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2024.equity",
+      "old": null,
+      "new": {
+        "amount": -384687.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "old": null,
+      "new": {
+        "amount": 384687.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": -384687.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 384687.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2013-04-30",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "68.200 Utleie av egen eller leid fast eiendom",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "TRONDHEIM (5001)",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3B HYTTESERVICE AS",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Selskapet skal leie ut fritidsboliger og oppgradere fritidseiendommer for videresalg.",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2013-05-21",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Frode Borren"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Terese Katrin Brekke"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Katrine Brekke Borren"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Janne Losen"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "roles.REGN.4",
+      "old": null,
+      "new": {
+        "role": "Accountant",
+        "name": "TRIVIX AS",
+        "orgnr": "930261890"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:00Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241",
+      "retrieved_at": "2026-10-14T07:34:01Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/911962241/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/911962241",
+      "retrieved_at": "2026-10-14T07:34:03Z"
+    }
+  ],
+  "errors": []
+}

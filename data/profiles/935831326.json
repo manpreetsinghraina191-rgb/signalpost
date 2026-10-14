@@ -1,0 +1,404 @@
+{
+  "orgnr": "935831326",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:32Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "+ BYGG PROSJEKT AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-07-09",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-06-05",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Kirkeveien 466, 3143 KJØPMANNSKJÆR",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "FÆRDER (3911)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "41.000 Oppføring av bygninger",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Salgskonsulent tjeneste innen bygg og anlegg.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": "2025-06-05",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Tømrer, oppføring og vedlikehold av bygninger.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Pål Richard Andersen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": "2025-07-09",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Fredrik Hvitstein Hansen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": "2025-07-09",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Ida-Merethe Kleppe Hansen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": "2025-07-09",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "value": {
+        "role": "Board member",
+        "name": "Birgitte Iselin Svendgård"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": "2025-07-09",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.4",
+      "value": {
+        "role": "Board member",
+        "name": "Pål Richard Andersen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-14T07:26:46Z",
+      "as_of": "2025-07-09",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 1965.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -1965.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -1965.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -1965.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 21536.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 21536.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-06-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935831326, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935831326",
+      "confidence": "high"
+    }
+  ],
+  "summary": "+ BYGG PROSJEKT AS (935831326) is registered as Aksjeselskap (AS) based in Færder, registered 2025-07-09. Main industry: 41.000 Oppføring av bygninger. CEO: Pål Richard Andersen. Chair: Fredrik Hvitstein Hansen. Filed accounts for 2025: revenue 0 NOK, net result -1 965 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326",
+      "retrieved_at": "2026-10-14T07:26:46Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935831326/roller",
+      "retrieved_at": "2026-10-14T07:26:46Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/935831326",
+      "retrieved_at": "2026-10-14T07:26:47Z"
+    }
+  ],
+  "errors": []
+}

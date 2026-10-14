@@ -1,0 +1,366 @@
+{
+  "orgnr": "938103836",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:55Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3J UTVIKLING AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2026-07-15",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2026-06-13",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Gardvegen 379, 2642 KVAM",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "NORD-FRON (3436)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Investering, drift og utvikling innen fast eiendom, samt at selskapet kan delta i annen virksomhet.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": "2026-06-13",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Kjøp og salg av egen fast eiendom.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Robert Jensvoll"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836/roller",
+      "retrieved_at": "2026-10-14T07:34:56Z",
+      "as_of": "2026-07-15",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Robert Jensvoll"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836/roller",
+      "retrieved_at": "2026-10-14T07:34:56Z",
+      "as_of": "2026-07-15",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.2",
+      "value": {
+        "role": "Accountant",
+        "name": "WIDME REGNSKAP AS",
+        "orgnr": "988020753"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836/roller",
+      "retrieved_at": "2026-10-14T07:34:56Z",
+      "as_of": "2026-07-15",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938103836",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3J UTVIKLING AS (938103836) is registered as Aksjeselskap (AS) based in Nord-Fron, registered 2026-07-15. Main industry: 68.110 Kjøp og salg av egen fast eiendom. CEO: Robert Jensvoll. Chair: Robert Jensvoll. 19 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Kjøp og salg av egen fast eiendom.",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Gardvegen 379, 2642 KVAM",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2026-06-13",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "68.110 Kjøp og salg av egen fast eiendom",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "NORD-FRON (3436)",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3J UTVIKLING AS",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Investering, drift og utvikling innen fast eiendom, samt at selskapet kan delta i annen virksomhet.",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2026-07-15",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Robert Jensvoll"
+      },
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Robert Jensvoll"
+      },
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "roles.REGN.2",
+      "old": null,
+      "new": {
+        "role": "Accountant",
+        "name": "WIDME REGNSKAP AS",
+        "orgnr": "988020753"
+      },
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:55Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836",
+      "retrieved_at": "2026-10-14T07:34:55Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/938103836/roller",
+      "retrieved_at": "2026-10-14T07:34:56Z"
+    }
+  ],
+  "errors": []
+}

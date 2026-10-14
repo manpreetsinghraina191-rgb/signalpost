@@ -1,0 +1,1202 @@
+{
+  "orgnr": "984036736",
+  "status": "active",
+  "generated_at": "2026-10-14T07:36:25Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "4HUMAN TQM AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2001-12-19",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2001-12-17",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Strandgata 8, 3725 SKIEN",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "Stensarmen 16, 3112 TØNSBERG",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "SKIEN (4003)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "58.290 Utgivelse av annen programvare",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "employees",
+      "value": 12,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": "2026-02-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "website",
+      "value": "www.4human.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "email",
+      "value": "rh@4human.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "phone",
+      "value": "35 51 92 20",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Salg av programvare og rådgivning innen HMS, internkontroll og kvalitet.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": "2025-11-03",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Produkter og tjenester til internkontroll og kvalitetsoppfølging.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Roar Hansen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736/roller",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2021-08-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Adam Dawid Malinowski"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736/roller",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Roar Aasvang"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736/roller",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "value": {
+        "role": "Board member",
+        "name": "Maurice Andre Hernandez"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736/roller",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REVI.4",
+      "value": {
+        "role": "Auditor",
+        "name": "BDO AS",
+        "orgnr": "993606650"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736/roller",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2018-07-19",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 32760491.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 23434820.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": 9325670.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": 9095027.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": 7430796.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 37873647.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 9546360.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 28327287.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "value": {
+        "amount": 31925230.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "value": {
+        "amount": 24326630.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "value": {
+        "amount": 7598600.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": 7214077.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": 5653784.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 26191297.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": 8803014.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 17388283.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "value": {
+        "amount": 29502975.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "value": {
+        "amount": 23656367.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "value": {
+        "amount": 5846609.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "value": {
+        "amount": 5671020.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "value": {
+        "amount": 4816527.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "value": {
+        "amount": 25342263.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.equity",
+      "value": {
+        "amount": 8660407.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "value": {
+        "amount": 16681857.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 984036736, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/984036736",
+      "confidence": "high"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "value": false,
+      "source_name": "Company website",
+      "source_url": "https://www.4human.no",
+      "retrieved_at": "2026-10-14T07:36:29Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 984036736 in Enhetsregisteret",
+      "human_url": "https://www.4human.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.title",
+      "value": "4human | Komplett løsning innen HR, lønn og HMSK",
+      "source_name": "Company website",
+      "source_url": "https://www.4human.no",
+      "retrieved_at": "2026-10-14T07:36:29Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 984036736 in Enhetsregisteret",
+      "human_url": "https://www.4human.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.description",
+      "value": "Med Nordens mest fremtidsrettede programvare innen HR- og kvalitetssoftware, forenkler og forbedrer vi hverdagen for mennesker, ansatte og ledere i norske og internasjonale virksomheter.",
+      "source_name": "Company website",
+      "source_url": "https://www.4human.no",
+      "retrieved_at": "2026-10-14T07:36:29Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 984036736 in Enhetsregisteret",
+      "human_url": "https://www.4human.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.social_links",
+      "value": [
+        "https://www.facebook.com/4human.no",
+        "https://www.facebook.com/tr",
+        "https://www.instagram.com/4humannorge/",
+        "https://www.linkedin.com/company/4humannorge/"
+      ],
+      "source_name": "Company website",
+      "source_url": "https://www.4human.no",
+      "retrieved_at": "2026-10-14T07:36:29Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 984036736 in Enhetsregisteret",
+      "human_url": "https://www.4human.no",
+      "confidence": "medium"
+    }
+  ],
+  "summary": "4HUMAN TQM AS (984036736) is registered as Aksjeselskap (AS) based in Skien, registered 2001-12-19. Main industry: 58.290 Utgivelse av annen programvare. Registered employees: 12. CEO: Roar Hansen. Chair: Adam Dawid Malinowski. Filed accounts for 2025: revenue 32 760 491 NOK, net result 7 430 796 NOK. 55 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Produkter og tjenester til internkontroll og kvalitetsoppfølging.",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Strandgata 8, 3725 SKIEN",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "address.postal",
+      "old": null,
+      "new": "Stensarmen 16, 3112 TØNSBERG",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "email",
+      "old": null,
+      "new": "rh@4human.no",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "employees",
+      "old": null,
+      "new": 12,
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.equity",
+      "old": null,
+      "new": {
+        "amount": 8660407.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "old": null,
+      "new": {
+        "amount": 4816527.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 23656367.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 5846609.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 5671020.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "old": null,
+      "new": {
+        "amount": 29502975.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "old": null,
+      "new": {
+        "amount": 25342263.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "old": null,
+      "new": {
+        "amount": 16681857.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.equity",
+      "old": null,
+      "new": {
+        "amount": 8803014.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "old": null,
+      "new": {
+        "amount": 5653784.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 24326630.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 7598600.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 7214077.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "old": null,
+      "new": {
+        "amount": 31925230.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "old": null,
+      "new": {
+        "amount": 26191297.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "old": null,
+      "new": {
+        "amount": 17388283.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 9546360.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": 7430796.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 23434820.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 9325670.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 9095027.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "old": null,
+      "new": {
+        "amount": 32760491.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 37873647.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 28327287.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2001-12-17",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "58.290 Utgivelse av annen programvare",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "SKIEN (4003)",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "4HUMAN TQM AS",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "phone",
+      "old": null,
+      "new": "35 51 92 20",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Salg av programvare og rådgivning innen HMS, internkontroll og kvalitet.",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2001-12-19",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Roar Hansen"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Adam Dawid Malinowski"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Roar Aasvang"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Maurice Andre Hernandez"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "roles.REVI.4",
+      "old": null,
+      "new": {
+        "role": "Auditor",
+        "name": "BDO AS",
+        "orgnr": "993606650"
+      },
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "web.description",
+      "old": null,
+      "new": "Med Nordens mest fremtidsrettede programvare innen HR- og kvalitetssoftware, forenkler og forbedrer vi hverdagen for mennesker, ansatte og ledere i norske og internasjonale virksomheter.",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "web.social_links",
+      "old": null,
+      "new": [
+        "https://www.facebook.com/4human.no",
+        "https://www.facebook.com/tr",
+        "https://www.instagram.com/4humannorge/",
+        "https://www.linkedin.com/company/4humannorge/"
+      ],
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "web.title",
+      "old": null,
+      "new": "4human | Komplett løsning innen HR, lønn og HMSK",
+      "detected_at": "2026-10-14T07:36:25Z"
+    },
+    {
+      "key": "website",
+      "old": null,
+      "new": "www.4human.no",
+      "detected_at": "2026-10-14T07:36:25Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736",
+      "retrieved_at": "2026-10-14T07:36:26Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/984036736/roller",
+      "retrieved_at": "2026-10-14T07:36:27Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/984036736",
+      "retrieved_at": "2026-10-14T07:36:27Z"
+    },
+    {
+      "name": "Company website",
+      "url": "https://www.4human.no",
+      "retrieved_at": "2026-10-14T07:36:29Z"
+    }
+  ],
+  "errors": []
+}

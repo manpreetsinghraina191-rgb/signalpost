@@ -1,0 +1,628 @@
+{
+  "orgnr": "935297362",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:49Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3H GROUP AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-04-01",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-03-02",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Masteveien 3, 1481 HAGAN",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "Bekkelia 38, 1481 HAGAN",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "NITTEDAL (3232)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Kjøp og salg av aksjer og andre verdipapirer, investering, utvikling og drift av fast eiendom, samt hva hermed står i forbindelse, herunder å delta i andre selskaper med liknende virksomhet.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": "2025-03-02",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Kjøp og salg av aksjer og andre verdipapirer. Investering, utvikling og drift av fast eiendom, samt hva hermed står i forbindelse. Delta i andre selskaper med liknende virksomhet.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Hassan Khan"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362/roller",
+      "retrieved_at": "2026-10-14T07:34:51Z",
+      "as_of": "2025-04-01",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Hassan Khan"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362/roller",
+      "retrieved_at": "2026-10-14T07:34:51Z",
+      "as_of": "2025-04-01",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Harris Khan"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362/roller",
+      "retrieved_at": "2026-10-14T07:34:51Z",
+      "as_of": "2025-04-01",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REVI.3",
+      "value": {
+        "role": "Auditor",
+        "name": "REVISORDAMENE AVD. ROSENHOLM AS",
+        "orgnr": "936434975"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362/roller",
+      "retrieved_at": "2026-10-14T07:34:51Z",
+      "as_of": "2025-11-17",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.4",
+      "value": {
+        "role": "Accountant",
+        "name": "WESTBYE REGNSKAP OG RÅD AS",
+        "orgnr": "827609242"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362/roller",
+      "retrieved_at": "2026-10-14T07:34:51Z",
+      "as_of": "2025-09-21",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 5524.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935297362, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -5524.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935297362, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -5526.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935297362, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -5526.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935297362, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 24115604.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935297362, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 32974.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935297362, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 24082629.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935297362, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935297362",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3H GROUP AS (935297362) is registered as Aksjeselskap (AS) based in Nittedal, registered 2025-04-01. Main industry: 68.200 Utleie av egen eller leid fast eiendom. CEO: Hassan Khan. Chair: Hassan Khan. Filed accounts for 2025: net result -5 526 NOK. 30 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Kjøp og salg av aksjer og andre verdipapirer. Investering, utvikling og drift av fast eiendom, samt hva hermed står i forbindelse. Delta i andre selskaper med liknende virksomhet.",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Masteveien 3, 1481 HAGAN",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "address.postal",
+      "old": null,
+      "new": "Bekkelia 38, 1481 HAGAN",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 32974.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": -5526.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 5524.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "old": null,
+      "new": {
+        "amount": -5524.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": -5526.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 24115604.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 24082629.0,
+        "currency": "NOK",
+        "period": "2025-03-02..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2025-03-02",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "68.200 Utleie av egen eller leid fast eiendom",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "NITTEDAL (3232)",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3H GROUP AS",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Kjøp og salg av aksjer og andre verdipapirer, investering, utvikling og drift av fast eiendom, samt hva hermed står i forbindelse, herunder å delta i andre selskaper med liknende virksomhet.",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2025-04-01",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Hassan Khan"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Hassan Khan"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Harris Khan"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "roles.REGN.4",
+      "old": null,
+      "new": {
+        "role": "Accountant",
+        "name": "WESTBYE REGNSKAP OG RÅD AS",
+        "orgnr": "827609242"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "roles.REVI.3",
+      "old": null,
+      "new": {
+        "role": "Auditor",
+        "name": "REVISORDAMENE AVD. ROSENHOLM AS",
+        "orgnr": "936434975"
+      },
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:49Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:49Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362",
+      "retrieved_at": "2026-10-14T07:34:50Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935297362/roller",
+      "retrieved_at": "2026-10-14T07:34:51Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/935297362",
+      "retrieved_at": "2026-10-14T07:34:52Z"
+    }
+  ],
+  "errors": []
+}

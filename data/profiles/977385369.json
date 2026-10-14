@@ -1,0 +1,1288 @@
+{
+  "orgnr": "977385369",
+  "status": "active",
+  "generated_at": "2026-10-14T07:35:18Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3RW ARKITEKTER AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "1997-04-11",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "1997-02-13",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "C. Sundts gate 53, 5004 BERGEN",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "Postboks 1131 Sentrum, 5809 BERGEN",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "BERGEN (4601)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "71.110 Arkitektvirksomhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "employees",
+      "value": 37,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": "2026-09-14",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "website",
+      "value": "www.3rw.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "email",
+      "value": "3rw@3rw.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "phone",
+      "value": "55 55 75 10",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "mobile",
+      "value": "99599694",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Selskapets virksomhet er arkitekt-, konsulent- og designtjenester, kunst- og kulturvirksomhet, kurs og undervisning, og hva dermed står i forbindelse, samt å interessere seg for andre virksomheter.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": "2015-10-23",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Driftselskap for konsulenttjenester innen akitektur, planlegging, design, kunstneriske fag, rettighetsspørsmål, undervisning, organisasjonsutvikling, salg av produkter i tilknytning til dette, herunder salg av eiendom.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Cecilie Osmundsvaag"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2020-05-25",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Haakon Rasmus Rasmussen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2026-02-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Espen Herman Rahlff"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2026-02-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "value": {
+        "role": "Board member",
+        "name": "Jakob Røsvik Jensen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2026-02-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.4",
+      "value": {
+        "role": "Board member",
+        "name": "Sixten Rahlff"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2026-02-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.5",
+      "value": {
+        "role": "Board member",
+        "name": "Cecilie Osmundsvaag"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2026-02-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REVI.6",
+      "value": {
+        "role": "Auditor",
+        "name": "KPMG AS",
+        "orgnr": "935174627"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2009-09-30",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.7",
+      "value": {
+        "role": "Accountant",
+        "name": "AIDER AS",
+        "orgnr": "922633452"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z",
+      "as_of": "2024-10-29",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 51755764.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 49838198.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": 1917566.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": 1891590.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": 1354973.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 22056195.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 9886263.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 12169932.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "value": {
+        "amount": 54866483.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "value": {
+        "amount": 49598962.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "value": {
+        "amount": 5267522.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": 5274141.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": 5007979.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 19321802.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": 8982935.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 10338866.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "value": {
+        "amount": 37720277.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "value": {
+        "amount": 40409125.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "value": {
+        "amount": -2688848.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "value": {
+        "amount": -2525877.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "value": {
+        "amount": -2525877.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "value": {
+        "amount": 13728615.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.equity",
+      "value": {
+        "amount": 6032956.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "value": {
+        "amount": 7695659.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 977385369, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/977385369",
+      "confidence": "high"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "value": false,
+      "source_name": "Company website",
+      "source_url": "https://www.3rw.no",
+      "retrieved_at": "2026-10-14T07:35:24Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 977385369 in Enhetsregisteret",
+      "human_url": "https://www.3rw.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.title",
+      "value": "3RW arkitekter | 3rw arkitekter AS",
+      "source_name": "Company website",
+      "source_url": "https://www.3rw.no",
+      "retrieved_at": "2026-10-14T07:35:24Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 977385369 in Enhetsregisteret",
+      "human_url": "https://www.3rw.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.description",
+      "value": "3RW arkitekter is a Norwegian office with an international reputation built on practical experience, influential socio-cultural work and an award winning creative and innovative approach. We are focusing on architecture, urbanism, planning and the cultural landscape.",
+      "source_name": "Company website",
+      "source_url": "https://www.3rw.no",
+      "retrieved_at": "2026-10-14T07:35:24Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 977385369 in Enhetsregisteret",
+      "human_url": "https://www.3rw.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.social_links",
+      "value": [
+        "https://www.facebook.com/3RWarkitekter/",
+        "https://www.instagram.com/3rwarkitekter/",
+        "https://www.linkedin.com/company/3rw-architects"
+      ],
+      "source_name": "Company website",
+      "source_url": "https://www.3rw.no",
+      "retrieved_at": "2026-10-14T07:35:24Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 977385369 in Enhetsregisteret",
+      "human_url": "https://www.3rw.no",
+      "confidence": "medium"
+    }
+  ],
+  "summary": "3RW ARKITEKTER AS (977385369) is registered as Aksjeselskap (AS) based in Bergen, registered 1997-04-11. Main industry: 71.110 Arkitektvirksomhet. Registered employees: 37. CEO: Cecilie Osmundsvaag. Chair: Haakon Rasmus Rasmussen. Filed accounts for 2025: revenue 51 755 764 NOK, net result 1 354 973 NOK. 59 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Driftselskap for konsulenttjenester innen akitektur, planlegging, design, kunstneriske fag, rettighetsspørsmål, undervisning, organisasjonsutvikling, salg av produkter i tilknytning til dette, herunder salg av eiendom.",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "C. Sundts gate 53, 5004 BERGEN",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "address.postal",
+      "old": null,
+      "new": "Postboks 1131 Sentrum, 5809 BERGEN",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "email",
+      "old": null,
+      "new": "3rw@3rw.no",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "employees",
+      "old": null,
+      "new": 37,
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.equity",
+      "old": null,
+      "new": {
+        "amount": 6032956.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "old": null,
+      "new": {
+        "amount": -2525877.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 40409125.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "old": null,
+      "new": {
+        "amount": -2688848.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": -2525877.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "old": null,
+      "new": {
+        "amount": 37720277.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "old": null,
+      "new": {
+        "amount": 13728615.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "old": null,
+      "new": {
+        "amount": 7695659.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.equity",
+      "old": null,
+      "new": {
+        "amount": 8982935.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "old": null,
+      "new": {
+        "amount": 5007979.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 49598962.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 5267522.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 5274141.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "old": null,
+      "new": {
+        "amount": 54866483.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "old": null,
+      "new": {
+        "amount": 19321802.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "old": null,
+      "new": {
+        "amount": 10338866.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 9886263.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": 1354973.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 49838198.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 1917566.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 1891590.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "old": null,
+      "new": {
+        "amount": 51755764.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 22056195.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 12169932.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "1997-02-13",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "71.110 Arkitektvirksomhet",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "mobile",
+      "old": null,
+      "new": "99599694",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "BERGEN (4601)",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3RW ARKITEKTER AS",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "phone",
+      "old": null,
+      "new": "55 55 75 10",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Selskapets virksomhet er arkitekt-, konsulent- og designtjenester, kunst- og kulturvirksomhet, kurs og undervisning, og hva dermed står i forbindelse, samt å interessere seg for andre virksomheter.",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "1997-04-11",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Cecilie Osmundsvaag"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Haakon Rasmus Rasmussen"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Espen Herman Rahlff"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Jakob Røsvik Jensen"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.MEDL.4",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Sixten Rahlff"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.MEDL.5",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Cecilie Osmundsvaag"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.REGN.7",
+      "old": null,
+      "new": {
+        "role": "Accountant",
+        "name": "AIDER AS",
+        "orgnr": "922633452"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "roles.REVI.6",
+      "old": null,
+      "new": {
+        "role": "Auditor",
+        "name": "KPMG AS",
+        "orgnr": "935174627"
+      },
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "web.description",
+      "old": null,
+      "new": "3RW arkitekter is a Norwegian office with an international reputation built on practical experience, influential socio-cultural work and an award winning creative and innovative approach. We are focusing on architecture, urbanism, planning and the cultural landscape.",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "web.social_links",
+      "old": null,
+      "new": [
+        "https://www.facebook.com/3RWarkitekter/",
+        "https://www.instagram.com/3rwarkitekter/",
+        "https://www.linkedin.com/company/3rw-architects"
+      ],
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "web.title",
+      "old": null,
+      "new": "3RW arkitekter | 3rw arkitekter AS",
+      "detected_at": "2026-10-14T07:35:18Z"
+    },
+    {
+      "key": "website",
+      "old": null,
+      "new": "www.3rw.no",
+      "detected_at": "2026-10-14T07:35:18Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369",
+      "retrieved_at": "2026-10-14T07:35:19Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/977385369/roller",
+      "retrieved_at": "2026-10-14T07:35:20Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/977385369",
+      "retrieved_at": "2026-10-14T07:35:21Z"
+    },
+    {
+      "name": "Company website",
+      "url": "https://www.3rw.no",
+      "retrieved_at": "2026-10-14T07:35:24Z"
+    }
+  ],
+  "errors": []
+}

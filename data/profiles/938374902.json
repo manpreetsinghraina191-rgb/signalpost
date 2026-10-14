@@ -1,0 +1,318 @@
+{
+  "orgnr": "938374902",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:00Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3B HOLDING AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2026-09-11",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2026-07-01",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Tyrs vei 4, 7130 BREKSTAD",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "ØRLAND (5057)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "00.000 Uoppgitt",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Eie aksjer og andeler i andre selskaper, investeringsvirksomhet samt annen virksomhet som naturlig står i forbindelse med dette.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": "2026-07-01",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Holdingselskap. Investering i aksjer og verdipapirer.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Sissel Berg"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z",
+      "as_of": "2026-09-11",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/938374902",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3B HOLDING AS (938374902) is registered as Aksjeselskap (AS) based in Ørland, registered 2026-09-11. Main industry: 00.000 Uoppgitt. Chair: Sissel Berg. 17 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Holdingselskap. Investering i aksjer og verdipapirer.",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Tyrs vei 4, 7130 BREKSTAD",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2026-07-01",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "00.000 Uoppgitt",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "ØRLAND (5057)",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3B HOLDING AS",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Eie aksjer og andeler i andre selskaper, investeringsvirksomhet samt annen virksomhet som naturlig står i forbindelse med dette.",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2026-09-11",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Sissel Berg"
+      },
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:00Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:00Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902",
+      "retrieved_at": "2026-10-14T07:34:01Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/938374902/roller",
+      "retrieved_at": "2026-10-14T07:34:02Z"
+    }
+  ],
+  "errors": []
+}

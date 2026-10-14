@@ -1,0 +1,1101 @@
+{
+  "orgnr": "830912452",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:16Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3D LANDSKAP AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2023-02-28",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2023-02-07",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Hisøysvingen 70, 4817 HIS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "Postboks 88, 4853 HIS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "ARENDAL (4203)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "74.120 Grafisk design og visuell kommunikasjonsdesign",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "website",
+      "value": "3dlandskap.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "1. Utvikle, produsere og selge digitale 3D-visualiseringer, interaktive modeller, STL-filer og programvare basert på høyde- og skannedata. 2. Produsere fysiske 3D-modeller, miniatyrer, relieffer og skulpturer ved hjelp av 3D-printing, CNC og tradisjonell håndbearbeiding. 3. Utføre håndverkstjenester, herunder hus- og fasademaling, kjøkken- og møbelmontering, snekker- og rehabiliteringsarbeid, rengjøring og annet bygningsvedlikehold. 4. Salg av verktøy, materialer og utstyr som naturlig knytter seg til punktene 1-3. 5. Annen virksomhet som står i naturlig sammenheng med det foran nevnte.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": "2025-06-16",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Digital og fysisk 3D-modellering. Produksjon av modeller og suvenirer. Utførelse av maler- og snekkerarbeid. Rengjøring av byggninger.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Stefan Trausti Arnason"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452/roller",
+      "retrieved_at": "2026-10-14T07:34:18Z",
+      "as_of": "2023-02-28",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Stefan Trausti Arnason"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452/roller",
+      "retrieved_at": "2026-10-14T07:34:18Z",
+      "as_of": "2023-02-28",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Olafur Ingi Arnason"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452/roller",
+      "retrieved_at": "2026-10-14T07:34:18Z",
+      "as_of": "2023-02-28",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 215624.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 215957.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -333.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -506.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -506.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 56719.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 16628.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 40091.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "value": {
+        "amount": 98181.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "value": {
+        "amount": 52294.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "value": {
+        "amount": 45887.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": 45616.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": 45616.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 41460.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": 17134.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 24326.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "value": {
+        "amount": 27308.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "value": {
+        "amount": 85736.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "value": {
+        "amount": -58428.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "value": {
+        "amount": -58481.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "value": {
+        "amount": -58481.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "value": {
+        "amount": 982.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.equity",
+      "value": {
+        "amount": -28482.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "value": {
+        "amount": 29463.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 830912452, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/830912452",
+      "confidence": "high"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "value": true,
+      "source_name": "Company website",
+      "source_url": "https://3dlandskap.no",
+      "retrieved_at": "2026-10-14T07:34:25Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 830912452 in Enhetsregisteret; page also states the orgnr",
+      "human_url": "https://3dlandskap.no",
+      "confidence": "high"
+    },
+    {
+      "key": "web.title",
+      "value": "3D Landskap AS – Visualisering av landskap både digitalt 3D og fysiske miniatyrmodeller",
+      "source_name": "Company website",
+      "source_url": "https://3dlandskap.no",
+      "retrieved_at": "2026-10-14T07:34:25Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 830912452 in Enhetsregisteret; page also states the orgnr",
+      "human_url": "https://3dlandskap.no",
+      "confidence": "high"
+    },
+    {
+      "key": "web.description",
+      "value": "Fysiske 3D modellersom gjør landskapog prosjekter forståelige Presise modeller basert på ekte høydedata kombinert med kartdata og digital 3D design og modelering. Laget for utstillinger, eiendomsutvikling, planledding og presentasjon. NøyaktigeModeller basert på ekte data Skreddersyddmed riktig skala og detalj for ditt formål Fysisk & håndlaget3D printet og ferdigstilt for hånd Norsk produsertModellene er laget her…",
+      "source_name": "Company website",
+      "source_url": "https://3dlandskap.no",
+      "retrieved_at": "2026-10-14T07:34:25Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 830912452 in Enhetsregisteret; page also states the orgnr",
+      "human_url": "https://3dlandskap.no",
+      "confidence": "high"
+    },
+    {
+      "key": "web.social_links",
+      "value": [
+        "https://www.facebook.com/3dlandskap",
+        "https://www.facebook.com/tr",
+        "https://www.instagram.com/3dlandskap/"
+      ],
+      "source_name": "Company website",
+      "source_url": "https://3dlandskap.no",
+      "retrieved_at": "2026-10-14T07:34:25Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 830912452 in Enhetsregisteret; page also states the orgnr",
+      "human_url": "https://3dlandskap.no",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3D LANDSKAP AS (830912452) is registered as Aksjeselskap (AS) based in Arendal, registered 2023-02-28. Main industry: 74.120 Grafisk design og visuell kommunikasjonsdesign. CEO: Stefan Trausti Arnason. Chair: Stefan Trausti Arnason. Filed accounts for 2025: revenue 215 624 NOK, net result -506 NOK. 50 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Digital og fysisk 3D-modellering. Produksjon av modeller og suvenirer. Utførelse av maler- og snekkerarbeid. Rengjøring av byggninger.",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Hisøysvingen 70, 4817 HIS",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "address.postal",
+      "old": null,
+      "new": "Postboks 88, 4853 HIS",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.equity",
+      "old": null,
+      "new": {
+        "amount": -28482.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "old": null,
+      "new": {
+        "amount": -58481.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 85736.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "old": null,
+      "new": {
+        "amount": -58428.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": -58481.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "old": null,
+      "new": {
+        "amount": 27308.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "old": null,
+      "new": {
+        "amount": 982.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "old": null,
+      "new": {
+        "amount": 29463.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.equity",
+      "old": null,
+      "new": {
+        "amount": 17134.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "old": null,
+      "new": {
+        "amount": 45616.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 52294.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 45887.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 45616.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "old": null,
+      "new": {
+        "amount": 98181.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "old": null,
+      "new": {
+        "amount": 41460.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "old": null,
+      "new": {
+        "amount": 24326.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 16628.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": -506.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 215957.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "old": null,
+      "new": {
+        "amount": -333.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": -506.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "old": null,
+      "new": {
+        "amount": 215624.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 56719.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 40091.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2023-02-07",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "74.120 Grafisk design og visuell kommunikasjonsdesign",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "ARENDAL (4203)",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3D LANDSKAP AS",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "1. Utvikle, produsere og selge digitale 3D-visualiseringer, interaktive modeller, STL-filer og programvare basert på høyde- og skannedata. 2. Produsere fysiske 3D-modeller, miniatyrer, relieffer og skulpturer ved hjelp av 3D-printing, CNC og tradisjonell håndbearbeiding. 3. Utføre håndverkstjenester, herunder hus- og fasademaling, kjøkken- og møbelmontering, snekker- og rehabiliteringsarbeid, rengjøring og annet bygningsvedlikehold. 4. Salg av verktøy, materialer og utstyr som naturlig knytter seg til punktene 1-3. 5. Annen virksomhet som står i naturlig sammenheng med det foran nevnte.",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2023-02-28",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Stefan Trausti Arnason"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Stefan Trausti Arnason"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Olafur Ingi Arnason"
+      },
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "web.description",
+      "old": null,
+      "new": "Fysiske 3D modellersom gjør landskapog prosjekter forståelige Presise modeller basert på ekte høydedata kombinert med kartdata og digital 3D design og modelering. Laget for utstillinger, eiendomsutvikling, planledding og presentasjon. NøyaktigeModeller basert på ekte data Skreddersyddmed riktig skala og detalj for ditt formål Fysisk & håndlaget3D printet og ferdigstilt for hånd Norsk produsertModellene er laget her…",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "web.social_links",
+      "old": null,
+      "new": [
+        "https://www.facebook.com/3dlandskap",
+        "https://www.facebook.com/tr",
+        "https://www.instagram.com/3dlandskap/"
+      ],
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "web.title",
+      "old": null,
+      "new": "3D Landskap AS – Visualisering av landskap både digitalt 3D og fysiske miniatyrmodeller",
+      "detected_at": "2026-10-14T07:34:16Z"
+    },
+    {
+      "key": "website",
+      "old": null,
+      "new": "3dlandskap.no",
+      "detected_at": "2026-10-14T07:34:16Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452",
+      "retrieved_at": "2026-10-14T07:34:17Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/830912452/roller",
+      "retrieved_at": "2026-10-14T07:34:18Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/830912452",
+      "retrieved_at": "2026-10-14T07:34:19Z"
+    },
+    {
+      "name": "Company website",
+      "url": "https://3dlandskap.no",
+      "retrieved_at": "2026-10-14T07:34:25Z"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,515 @@
+{
+  "orgnr": "936249051",
+  "status": "active",
+  "generated_at": "2026-10-14T07:33:49Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "360NOSCOPE INVEST AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-09-25",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-09-16",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Nye teglverks vei 1A, 4632 KRISTIANSAND S",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "KRISTIANSAND (4204)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "00.000 Uoppgitt",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Eie og forvalte aksjer, verdipapirer og eiendom, samt å drive investeringsvirksomhet, handel, tjenesteyting og annen virksomhet som står i naturlig sammenheng med dette.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": "2025-10-22",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Investering i aksjer og verdipapirer.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Christoffer Tønnessen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051/roller",
+      "retrieved_at": "2026-10-14T07:33:51Z",
+      "as_of": "2025-11-08",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936249051, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936249051, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936249051, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936249051, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 649999.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936249051, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 22146.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936249051, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 627853.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 936249051, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936249051",
+      "confidence": "high"
+    }
+  ],
+  "summary": "360NOSCOPE INVEST AS (936249051) is registered as Aksjeselskap (AS) based in Kristiansand, registered 2025-09-25. Main industry: 00.000 Uoppgitt. Chair: Christoffer Tønnessen. Filed accounts for 2025: net result -1 354 NOK. 25 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Investering i aksjer og verdipapirer.",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Nye teglverks vei 1A, 4632 KRISTIANSAND S",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 22146.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": -1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "old": null,
+      "new": {
+        "amount": -1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": -1354.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 649999.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 627853.0,
+        "currency": "NOK",
+        "period": "2025-09-16..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2025-09-16",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "00.000 Uoppgitt",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "KRISTIANSAND (4204)",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "360NOSCOPE INVEST AS",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Eie og forvalte aksjer, verdipapirer og eiendom, samt å drive investeringsvirksomhet, handel, tjenesteyting og annen virksomhet som står i naturlig sammenheng med dette.",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2025-09-25",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Christoffer Tønnessen"
+      },
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:33:49Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:33:49Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
+      "retrieved_at": "2026-10-14T07:33:50Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051/roller",
+      "retrieved_at": "2026-10-14T07:33:51Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/936249051",
+      "retrieved_at": "2026-10-14T07:33:52Z"
+    }
+  ],
+  "errors": []
+}

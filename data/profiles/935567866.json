@@ -1,0 +1,540 @@
+{
+  "orgnr": "935567866",
+  "status": "active",
+  "generated_at": "2026-10-14T07:33:34Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "30NORTH AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-05-26",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-04-05",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Gullfakskroken 5, 4028 STAVANGER",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "STAVANGER (1103)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "00.000 Uoppgitt",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Å forvalte og investere i selskaper og verdipapirer.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": "2025-04-05",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Investering i aksjer og verdipapirer.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Kristoffer Eimstad Fossan"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866/roller",
+      "retrieved_at": "2026-10-14T07:33:35Z",
+      "as_of": "2025-05-26",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 23500.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 23500.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935567866, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935567866",
+      "confidence": "high"
+    }
+  ],
+  "summary": "30NORTH AS (935567866) is registered as Aksjeselskap (AS) based in Stavanger, registered 2025-05-26. Main industry: 00.000 Uoppgitt. Chair: Kristoffer Eimstad Fossan. Filed accounts for 2025: revenue 0 NOK, net result 0 NOK. 26 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Investering i aksjer og verdipapirer.",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Gullfakskroken 5, 4028 STAVANGER",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 23500.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 23500.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-04-05..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2025-04-05",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "00.000 Uoppgitt",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "STAVANGER (1103)",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "30NORTH AS",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Å forvalte og investere i selskaper og verdipapirer.",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2025-05-26",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Kristoffer Eimstad Fossan"
+      },
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:33:34Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866",
+      "retrieved_at": "2026-10-14T07:33:34Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935567866/roller",
+      "retrieved_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/935567866",
+      "retrieved_at": "2026-10-14T07:33:36Z"
+    }
+  ],
+  "errors": []
+}

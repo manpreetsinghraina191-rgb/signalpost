@@ -1,0 +1,715 @@
+{
+  "orgnr": "923579982",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:33Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "100% REGNSKAP AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2019-10-10",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2019-09-27",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Krogstadveien 26B, 1643 RÅDE",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "Postboks 6, 1625 MANSTAD",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "RÅDE (3112)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "69.202 Regnskapsføring og bokføring",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "website",
+      "value": "www.r100.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "email",
+      "value": "kontakt@r100.no",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "phone",
+      "value": "69 00 14 50",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Bokførings-, regnskaps-, og rådgivningsvirksomhet, med alt som hører inn under dette. Deltakelse i annen virksomhet samt investering i aksjer og verdipapirer.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": "2024-11-08",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Bokførings-, regnskaps-, og rådgivningsvirksomhet, med alt som hører inn under dette, samt å delta i andre selskaper i naturlig tilknytning til dette.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Marit Alise Schjødt"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982/roller",
+      "retrieved_at": "2026-10-14T07:27:20Z",
+      "as_of": "2019-10-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Marit Alise Schjødt"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982/roller",
+      "retrieved_at": "2026-10-14T07:27:20Z",
+      "as_of": "2024-07-24",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Andreas Bandholst Schjødt"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982/roller",
+      "retrieved_at": "2026-10-14T07:27:20Z",
+      "as_of": "2024-07-24",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REVI.3",
+      "value": {
+        "role": "Auditor",
+        "name": "TOTAL REVISJON DA",
+        "orgnr": "985153965"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982/roller",
+      "retrieved_at": "2026-10-14T07:27:20Z",
+      "as_of": "2019-10-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 1169388.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 1194611.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -25223.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -16903.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -14182.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 523697.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 328526.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 195170.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "value": {
+        "amount": 1040182.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "value": {
+        "amount": 1009776.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "value": {
+        "amount": 30405.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": 42211.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": 32670.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 516483.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": 342709.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 173774.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "value": {
+        "amount": 971060.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "value": {
+        "amount": 986946.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "value": {
+        "amount": -15886.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "value": {
+        "amount": -13286.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "value": {
+        "amount": -10363.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "value": {
+        "amount": 509615.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.equity",
+      "value": {
+        "amount": 310039.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "value": {
+        "amount": 199576.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 923579982, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/923579982",
+      "confidence": "high"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "value": false,
+      "source_name": "Company website",
+      "source_url": "https://www.r100.no",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 923579982 in Enhetsregisteret",
+      "human_url": "https://www.r100.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.title",
+      "value": "Forsiden | 100% Regnskap AS",
+      "source_name": "Company website",
+      "source_url": "https://www.r100.no",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 923579982 in Enhetsregisteret",
+      "human_url": "https://www.r100.no",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.social_links",
+      "value": [
+        "http://linkedin.com/company/100-regnskap-as"
+      ],
+      "source_name": "Company website",
+      "source_url": "https://www.r100.no",
+      "retrieved_at": "2026-10-14T07:27:21Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 923579982 in Enhetsregisteret",
+      "human_url": "https://www.r100.no",
+      "confidence": "medium"
+    }
+  ],
+  "summary": "100% REGNSKAP AS (923579982) is registered as Aksjeselskap (AS) based in Råde, registered 2019-10-10. Main industry: 69.202 Regnskapsføring og bokføring. CEO: Marit Alise Schjødt. Chair: Marit Alise Schjødt. Filed accounts for 2025: revenue 1 169 388 NOK, net result -14 182 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982",
+      "retrieved_at": "2026-10-14T07:27:19Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/923579982/roller",
+      "retrieved_at": "2026-10-14T07:27:20Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/923579982",
+      "retrieved_at": "2026-10-14T07:27:21Z"
+    },
+    {
+      "name": "Company website",
+      "url": "https://www.r100.no",
+      "retrieved_at": "2026-10-14T07:27:21Z"
+    }
+  ],
+  "errors": []
+}

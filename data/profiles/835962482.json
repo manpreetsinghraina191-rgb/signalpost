@@ -1,0 +1,384 @@
+{
+  "orgnr": "835962482",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:43Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "24/7 TOLKETJENESTE AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-08-13",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-07-25",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Liaveien 9, 1920 SØRUMSAND",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "LILLESTRØM (3205)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "74.300 Oversettelses- og tolkevirksomhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "email",
+      "value": "tolk.aesha@hotmail.com",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "mobile",
+      "value": "968 13 733",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Tolke- og oversettertjeneste.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": "2025-07-25",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Oversettelse- og tolketjenester.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Aesha Irkayek"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482/roller",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": "2025-08-13",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Aesha Irkayek"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482/roller",
+      "retrieved_at": "2026-10-14T07:29:24Z",
+      "as_of": "2025-08-13",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 2389.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -2389.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -2389.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -2389.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 21637.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 21111.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 526.0,
+        "currency": "NOK",
+        "period": "2025-07-25..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 835962482, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/835962482",
+      "confidence": "high"
+    }
+  ],
+  "summary": "24/7 TOLKETJENESTE AS (835962482) is registered as Aksjeselskap (AS) based in Lillestrøm, registered 2025-08-13. Main industry: 74.300 Oversettelses- og tolkevirksomhet. CEO: Aesha Irkayek. Chair: Aesha Irkayek. Filed accounts for 2025: revenue 0 NOK, net result -2 389 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482",
+      "retrieved_at": "2026-10-14T07:29:24Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/835962482/roller",
+      "retrieved_at": "2026-10-14T07:29:24Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/835962482",
+      "retrieved_at": "2026-10-14T07:29:25Z"
+    }
+  ],
+  "errors": []
+}

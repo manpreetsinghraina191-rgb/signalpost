@@ -1,0 +1,343 @@
+{
+  "orgnr": "936195520",
+  "status": "active",
+  "generated_at": "2026-10-14T07:33:35Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "319 HOLDING AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-09-18",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-09-09",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Hyevegen 1775, 6829 HYEN",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "GLOPPEN (4650)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "30.110 Bygging av sivile skip og flytende materiell",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Eige og leige ut fartøy, samt verksemd som står i naturleg samanheng med dette.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": "2026-04-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Bygging av skip og flytende materiell.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Karl-Erik Strøm Skogseid"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520/roller",
+      "retrieved_at": "2026-10-14T07:33:37Z",
+      "as_of": "2026-05-04",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.1",
+      "value": {
+        "role": "Accountant",
+        "name": "HYEN REKNESKAP AS",
+        "orgnr": "983533191"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520/roller",
+      "retrieved_at": "2026-10-14T07:33:37Z",
+      "as_of": "2026-01-30",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936195520",
+      "confidence": "high"
+    }
+  ],
+  "summary": "319 HOLDING AS (936195520) is registered as Aksjeselskap (AS) based in Gloppen, registered 2025-09-18. Main industry: 30.110 Bygging av sivile skip og flytende materiell. Chair: Karl-Erik Strøm Skogseid. 18 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Bygging av skip og flytende materiell.",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Hyevegen 1775, 6829 HYEN",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2025-09-09",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "30.110 Bygging av sivile skip og flytende materiell",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "GLOPPEN (4650)",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "319 HOLDING AS",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Eige og leige ut fartøy, samt verksemd som står i naturleg samanheng med dette.",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2025-09-18",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Karl-Erik Strøm Skogseid"
+      },
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "roles.REGN.1",
+      "old": null,
+      "new": {
+        "role": "Accountant",
+        "name": "HYEN REKNESKAP AS",
+        "orgnr": "983533191"
+      },
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:33:35Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:33:35Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520",
+      "retrieved_at": "2026-10-14T07:33:36Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936195520/roller",
+      "retrieved_at": "2026-10-14T07:33:37Z"
+    }
+  ],
+  "errors": []
+}

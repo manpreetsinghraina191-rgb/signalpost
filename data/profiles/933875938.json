@@ -1,0 +1,472 @@
+{
+  "orgnr": "933875938",
+  "status": "active",
+  "generated_at": "2026-10-14T07:33:14Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3 LIONS CONSULT AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2024-08-05",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2024-07-24",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "0571 OSLO",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "c/o Victor Ogonna Ezeogo, Sandakerveien 27, 0473 OSLO",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "OSLO (0301)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "email",
+      "value": "victorezeogo@gmail.com",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Eiendomsutvikling, eie, utleie, kjøp og salg av eiendom. Import og eksport av uspesifisert engroshandel. Fraktformidling, frakt og spedisjon. Salg av dataprogramvare og konsulenttjenester tilknyttet dette, samt derved forbunden virksomhet, herunder å drive annen type handel. Salg og konsulenttjenester innen system- og programvare, informatikk. Programvaredesign, utvikling og distribusjon. Utfører forskjellige typer programmeringstjenester. Salg av IT konsulenter og relaterte tjenester, programutvikling. Kjøp, oppussing, salg og utleie av leiligheter samt inveseringer som står i forbindelse med dette. Og andre produkter og tjenester som naturlig faller sammen med dette, herunder å delta i andre selskapet med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretaker.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": "2024-08-21",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Kjøp og salg av egen fast eiendom.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Victor Ogonna Ezeogo"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938/roller",
+      "retrieved_at": "2026-10-14T07:33:15Z",
+      "as_of": "2024-12-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Victor Ogonna Ezeogo"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938/roller",
+      "retrieved_at": "2026-10-14T07:33:15Z",
+      "as_of": "2024-12-10",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-07-24..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933875938",
+      "retrieved_at": "2026-10-14T07:33:16Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 933875938, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK",
+        "period": "2024-07-24..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933875938",
+      "retrieved_at": "2026-10-14T07:33:16Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 933875938, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK",
+        "period": "2024-07-24..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933875938",
+      "retrieved_at": "2026-10-14T07:33:16Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 933875938, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/933875938",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3 LIONS CONSULT AS (933875938) is registered as Aksjeselskap (AS) based in Oslo, registered 2024-08-05. Main industry: 68.110 Kjøp og salg av egen fast eiendom. CEO: Victor Ogonna Ezeogo. Chair: Victor Ogonna Ezeogo. Filed accounts for 2025: net result 0 NOK. 24 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Kjøp og salg av egen fast eiendom.",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "0571 OSLO",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "address.postal",
+      "old": null,
+      "new": "c/o Victor Ogonna Ezeogo, Sandakerveien 27, 0473 OSLO",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "email",
+      "old": null,
+      "new": "victorezeogo@gmail.com",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 30000.0,
+        "currency": "NOK",
+        "period": "2024-07-24..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": 0.0,
+        "currency": "NOK",
+        "period": "2024-07-24..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 30000.0,
+        "currency": "NOK",
+        "period": "2024-07-24..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2024-07-24",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "68.110 Kjøp og salg av egen fast eiendom",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "OSLO (0301)",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3 LIONS CONSULT AS",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Eiendomsutvikling, eie, utleie, kjøp og salg av eiendom. Import og eksport av uspesifisert engroshandel. Fraktformidling, frakt og spedisjon. Salg av dataprogramvare og konsulenttjenester tilknyttet dette, samt derved forbunden virksomhet, herunder å drive annen type handel. Salg og konsulenttjenester innen system- og programvare, informatikk. Programvaredesign, utvikling og distribusjon. Utfører forskjellige typer programmeringstjenester. Salg av IT konsulenter og relaterte tjenester, programutvikling. Kjøp, oppussing, salg og utleie av leiligheter samt inveseringer som står i forbindelse med dette. Og andre produkter og tjenester som naturlig faller sammen med dette, herunder å delta i andre selskapet med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretaker.",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2024-08-05",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Victor Ogonna Ezeogo"
+      },
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Victor Ogonna Ezeogo"
+      },
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:33:14Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938",
+      "retrieved_at": "2026-10-14T07:33:14Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/933875938/roller",
+      "retrieved_at": "2026-10-14T07:33:15Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/933875938",
+      "retrieved_at": "2026-10-14T07:33:16Z"
+    }
+  ],
+  "errors": []
+}

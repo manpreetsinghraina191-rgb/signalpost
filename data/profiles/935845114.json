@@ -1,0 +1,362 @@
+{
+  "orgnr": "935845114",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:32Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": ".BEIN BERGEN AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-07-15",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-06-19",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Blomhaugane 53B, 5943 AUSTRHEIM",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "AUSTRHEIM (4632)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "43.330 Gulvlegging og tapetsering",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Import,salg og installasjon av parkettgulv .",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": "2025-06-19",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Gulvlegging, flislegging og tapetsering.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Apassara Eriksson"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114/roller",
+      "retrieved_at": "2026-10-14T07:26:41Z",
+      "as_of": "2025-07-15",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Apassara Eriksson"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114/roller",
+      "retrieved_at": "2026-10-14T07:26:41Z",
+      "as_of": "2025-07-15",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 262591.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 259406.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": 3185.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": 3123.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": 2081.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 131065.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 40332.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 90733.0,
+        "currency": "NOK",
+        "period": "2025-06-19..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935845114, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935845114",
+      "confidence": "high"
+    }
+  ],
+  "summary": ".BEIN BERGEN AS (935845114) is registered as Aksjeselskap (AS) based in Austrheim, registered 2025-07-15. Main industry: 43.330 Gulvlegging og tapetsering. CEO: Apassara Eriksson. Chair: Apassara Eriksson. Filed accounts for 2025: revenue 262 591 NOK, net result 2 081 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114",
+      "retrieved_at": "2026-10-14T07:26:40Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935845114/roller",
+      "retrieved_at": "2026-10-14T07:26:41Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/935845114",
+      "retrieved_at": "2026-10-14T07:26:42Z"
+    }
+  ],
+  "errors": []
+}

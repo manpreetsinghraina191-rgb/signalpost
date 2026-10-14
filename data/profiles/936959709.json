@@ -1,0 +1,481 @@
+{
+  "orgnr": "936959709",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:29Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3DEGREES (NORWAY) AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2026-01-14",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2026-01-02",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Spaces Kvadraturen, Tollbugata 8B, 0152 OSLO",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "OSLO (0301)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "website",
+      "value": "www.3degreesinc.com",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "phone",
+      "value": "+018664458724",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Utvikle, implempentere og følge opp klimahandlingsplaner for bedriftskunder, samt globalt anskaffe karbonkreditter og miljørelaterte instrumenter.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": "2026-02-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Handel med og investering i fast eiendom, verdipapirer og andre formuesobjekter.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Stein Amble Haugan"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709/roller",
+      "retrieved_at": "2026-10-14T07:34:31Z",
+      "as_of": "2026-03-31",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.1",
+      "value": {
+        "role": "Board member",
+        "name": "David Philipp Zwick"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709/roller",
+      "retrieved_at": "2026-10-14T07:34:31Z",
+      "as_of": "2026-03-31",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.2",
+      "value": {
+        "role": "Accountant",
+        "name": "AZETS INSIGHT AS",
+        "orgnr": "983338917"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709/roller",
+      "retrieved_at": "2026-10-14T07:34:31Z",
+      "as_of": "2026-03-31",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/936959709",
+      "confidence": "high"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "value": false,
+      "source_name": "Company website",
+      "source_url": "https://www.3degreesinc.com",
+      "retrieved_at": "2026-10-14T07:34:34Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 936959709 in Enhetsregisteret",
+      "human_url": "https://www.3degreesinc.com",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.title",
+      "value": "3Degrees | Renewable energy and global climate solutions",
+      "source_name": "Company website",
+      "source_url": "https://www.3degreesinc.com",
+      "retrieved_at": "2026-10-14T07:34:34Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 936959709 in Enhetsregisteret",
+      "human_url": "https://www.3degreesinc.com",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.description",
+      "value": "3Degrees is your global partner for transformative climate solutions.",
+      "source_name": "Company website",
+      "source_url": "https://www.3degreesinc.com",
+      "retrieved_at": "2026-10-14T07:34:34Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 936959709 in Enhetsregisteret",
+      "human_url": "https://www.3degreesinc.com",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.social_links",
+      "value": [
+        "https://www.facebook.com/3DegreesInc/",
+        "https://www.instagram.com/3degreesinc_/",
+        "https://www.linkedin.com/company/3degrees/"
+      ],
+      "source_name": "Company website",
+      "source_url": "https://www.3degreesinc.com",
+      "retrieved_at": "2026-10-14T07:34:34Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 936959709 in Enhetsregisteret",
+      "human_url": "https://www.3degreesinc.com",
+      "confidence": "medium"
+    }
+  ],
+  "summary": "3DEGREES (NORWAY) AS (936959709) is registered as Aksjeselskap (AS) based in Oslo, registered 2026-01-14. Main industry: 70.200 Bedriftsrådgivning og annen administrativ rådgivning. Chair: Stein Amble Haugan. 25 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Handel med og investering i fast eiendom, verdipapirer og andre formuesobjekter.",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Spaces Kvadraturen, Tollbugata 8B, 0152 OSLO",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2026-01-02",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "OSLO (0301)",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3DEGREES (NORWAY) AS",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "phone",
+      "old": null,
+      "new": "+018664458724",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Utvikle, implempentere og følge opp klimahandlingsplaner for bedriftskunder, samt globalt anskaffe karbonkreditter og miljørelaterte instrumenter.",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2026-01-14",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Stein Amble Haugan"
+      },
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "roles.MEDL.1",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "David Philipp Zwick"
+      },
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "roles.REGN.2",
+      "old": null,
+      "new": {
+        "role": "Accountant",
+        "name": "AZETS INSIGHT AS",
+        "orgnr": "983338917"
+      },
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "web.description",
+      "old": null,
+      "new": "3Degrees is your global partner for transformative climate solutions.",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "web.social_links",
+      "old": null,
+      "new": [
+        "https://www.facebook.com/3DegreesInc/",
+        "https://www.instagram.com/3degreesinc_/",
+        "https://www.linkedin.com/company/3degrees/"
+      ],
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "web.title",
+      "old": null,
+      "new": "3Degrees | Renewable energy and global climate solutions",
+      "detected_at": "2026-10-14T07:34:29Z"
+    },
+    {
+      "key": "website",
+      "old": null,
+      "new": "www.3degreesinc.com",
+      "detected_at": "2026-10-14T07:34:29Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709",
+      "retrieved_at": "2026-10-14T07:34:30Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/936959709/roller",
+      "retrieved_at": "2026-10-14T07:34:31Z"
+    },
+    {
+      "name": "Company website",
+      "url": "https://www.3degreesinc.com",
+      "retrieved_at": "2026-10-14T07:34:34Z"
+    }
+  ],
+  "errors": []
+}

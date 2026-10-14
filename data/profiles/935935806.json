@@ -1,0 +1,318 @@
+{
+  "orgnr": "935935806",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:07Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3BUNNLINJER AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-08-21",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-08-11",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "President Harbitz' gate 21, 0259 OSLO",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "OSLO (0301)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Karrierelæring, eierstyring, konsulent, veilede, representere, mentor.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": "2025-08-11",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Eierstyring: Styreverv, governance, konsulentbistand til eiere og/eller styret relatert til bærekraft i sammensetning av styret, etisk rammeverk i bedriften og implementering av dette, samt rutiner for oppfølging og fremme lønnsomhet gjennom mangfold (i ulike bransjer). Fagfelt bærekraftig eierskap (G'en i ESG). Karrierelæring: Veiledning til bedrifter i hvordan lykkes med arbeidsinkludering- sosial bærekraft (S'en i ESG), eller på individnivå gjøre seg selv attraktiv for å bli inkludert via mentorvirksomhet og karriereveiledning (ulike bransjer). Fagfelt arbeidsinkludering og eierskap. Representasjon: Bistå (utenlandske) investorer med utarbeidelse av dokumenter til eksempelvis generalforsamling i Norge eller lignende virksomhet opp mot eiere og styret. Fagfelt administrativ rådgivning.  ",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Lill Marit Evanger Aafos"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806/roller",
+      "retrieved_at": "2026-10-14T07:34:09Z",
+      "as_of": "2025-08-21",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935935806",
+      "confidence": "high"
+    }
+  ],
+  "summary": "3BUNNLINJER AS (935935806) is registered as Aksjeselskap (AS) based in Oslo, registered 2025-08-21. Main industry: 70.200 Bedriftsrådgivning og annen administrativ rådgivning. Chair: Lill Marit Evanger Aafos. 17 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Eierstyring: Styreverv, governance, konsulentbistand til eiere og/eller styret relatert til bærekraft i sammensetning av styret, etisk rammeverk i bedriften og implementering av dette, samt rutiner for oppfølging og fremme lønnsomhet gjennom mangfold (i ulike bransjer). Fagfelt bærekraftig eierskap (G'en i ESG). Karrierelæring: Veiledning til bedrifter i hvordan lykkes med arbeidsinkludering- sosial bærekraft (S'en i ESG), eller på individnivå gjøre seg selv attraktiv for å bli inkludert via mentorvirksomhet og karriereveiledning (ulike bransjer). Fagfelt arbeidsinkludering og eierskap. Representasjon: Bistå (utenlandske) investorer med utarbeidelse av dokumenter til eksempelvis generalforsamling i Norge eller lignende virksomhet opp mot eiere og styret. Fagfelt administrativ rådgivning.  ",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "President Harbitz' gate 21, 0259 OSLO",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "2025-08-11",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "OSLO (0301)",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3BUNNLINJER AS",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Karrierelæring, eierstyring, konsulent, veilede, representere, mentor.",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "2025-08-21",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Lill Marit Evanger Aafos"
+      },
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:07Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:07Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806",
+      "retrieved_at": "2026-10-14T07:34:08Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935935806/roller",
+      "retrieved_at": "2026-10-14T07:34:09Z"
+    }
+  ],
+  "errors": []
+}

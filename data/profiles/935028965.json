@@ -1,0 +1,374 @@
+{
+  "orgnr": "935028965",
+  "status": "active",
+  "generated_at": "2026-10-14T07:32:43Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "24T OSLO RØRSERVICE AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "2025-02-12",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "2025-01-22",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Nedre Skøyen vei 11, 0276 OSLO",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "c/o Bøgh/trippel-r, Fritzners gate 19, 0264 OSLO",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "OSLO (0301)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "43.221 Rørleggerarbeid",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Utføre rørleggertjenester og andre tjenester innenfor vedlikehold og rehabilitering av bygg og anlegg, samt å foreta investeringer av enhver art, samt kjøp og salg av aksjer og verdipapirer, samt deltakelse i andre selskaper og alt som står i forbindelse dermed.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": "2025-01-22",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Rørleggertjenester.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.0",
+      "value": {
+        "role": "Chair",
+        "name": "Andre Jacobsen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965/roller",
+      "retrieved_at": "2026-10-14T07:29:30Z",
+      "as_of": "2025-02-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REGN.1",
+      "value": {
+        "role": "Accountant",
+        "name": "TRIPPEL-R - BØGHS REGNSKAP RAPPORTERING RÅDGIVNING",
+        "orgnr": "884029872"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965/roller",
+      "retrieved_at": "2026-10-14T07:29:30Z",
+      "as_of": "2025-02-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 4602900.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 4871187.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -268287.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -268071.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -268071.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 631550.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": -238071.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 869621.0,
+        "currency": "NOK",
+        "period": "2025-01-22..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 935028965, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/935028965",
+      "confidence": "high"
+    }
+  ],
+  "summary": "24T OSLO RØRSERVICE AS (935028965) is registered as Aksjeselskap (AS) based in Oslo, registered 2025-02-12. Main industry: 43.221 Rørleggerarbeid. Chair: Andre Jacobsen. Filed accounts for 2025: revenue 4 602 900 NOK, net result -268 071 NOK.",
+  "changes": [],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965",
+      "retrieved_at": "2026-10-14T07:29:29Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935028965/roller",
+      "retrieved_at": "2026-10-14T07:29:30Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/935028965",
+      "retrieved_at": "2026-10-14T07:29:31Z"
+    }
+  ],
+  "errors": []
+}

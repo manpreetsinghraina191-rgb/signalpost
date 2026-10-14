@@ -1,0 +1,1317 @@
+{
+  "orgnr": "919742356",
+  "status": "active",
+  "generated_at": "2026-10-14T07:34:03Z",
+  "facts": [
+    {
+      "key": "entity_type",
+      "value": "hovedenhet",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "name",
+      "value": "3B-FIBREGLASS NORWAY AS",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "legal_form",
+      "value": "Aksjeselskap (AS)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "registered_date",
+      "value": "1995-03-12",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "founded_date",
+      "value": "1970-06-09",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "address.business",
+      "value": "Tollenesveien 60, 4760 BIRKELAND",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "address.postal",
+      "value": "Postboks 42, 4795 BIRKELAND",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "municipality",
+      "value": "BIRKENES (4216)",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "industry.nace1",
+      "value": "23.140 Produksjon av glassfibre",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "employees",
+      "value": 342,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": "2026-10-13",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "website",
+      "value": "www.3b-fibreglass.com",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "email",
+      "value": "birplant@3b-fibreglass.com",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "phone",
+      "value": "37 28 05 00",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "purpose",
+      "value": "Produksjon og salg av glassfibertekstiler og en- hver annen virksomhet i forbindelse med dette. Selskapet skal kunne eie aksjer eller på annen måte delta i andre selskaper eller foretagender med tilsvarende formål.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": "2012-02-01",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "activity",
+      "value": "Produksjon og salg av glassfibertekstiler og en- hver annen virksomhet i forbindelse med dette. Selskapet skal kunne eie aksjer eller på annen måte delta i andre selskaper eller foretagender med tilsvarende formål.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.vat",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "value": true,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "value": false,
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "value": "2025",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "status.distress",
+      "value": "none registered",
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z",
+      "as_of": null,
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "value": {
+        "role": "CEO",
+        "name": "Frantz Johan Agerbo"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2025-09-09",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "value": {
+        "role": "Chair",
+        "name": "Vishal Bhailal Shah"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "value": {
+        "role": "Board member",
+        "name": "Paul Christian Jensen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "value": {
+        "role": "Board member",
+        "name": "Tom Anders Hartvigsen"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.4",
+      "value": {
+        "role": "Board member",
+        "name": "Hans Olaf Birkenes"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.MEDL.5",
+      "value": {
+        "role": "Board member",
+        "name": "Deepa Viswanathan"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.VARA.6",
+      "value": {
+        "role": "Deputy board member",
+        "name": "Alexander Rosseland Finnøy"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.VARA.7",
+      "value": {
+        "role": "Deputy board member",
+        "name": "Tone Mollestad"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.VARA.8",
+      "value": {
+        "role": "Deputy board member",
+        "name": "Magnus Breimyr Brovig"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.VARA.9",
+      "value": {
+        "role": "Deputy board member",
+        "name": "Mathew David Blanco"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2026-03-18",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "roles.REVI.10",
+      "value": {
+        "role": "Auditor",
+        "name": "BDO AS",
+        "orgnr": "993606650"
+      },
+      "source_name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z",
+      "as_of": "2022-01-12",
+      "evidence": "Looked up by organisasjonsnummer in the official register",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "value": {
+        "amount": 551384000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "value": {
+        "amount": 623337000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "value": {
+        "amount": -71953000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "value": {
+        "amount": -95569000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "value": {
+        "amount": -95569000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "value": {
+        "amount": 739673000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.equity",
+      "value": {
+        "amount": 130966000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "value": {
+        "amount": 608707000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2025-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2025-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "value": {
+        "amount": 515081000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "value": {
+        "amount": 602464000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "value": {
+        "amount": -87383000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "value": {
+        "amount": -100334000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "value": {
+        "amount": -77516000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "value": {
+        "amount": 741374000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.equity",
+      "value": {
+        "amount": 232303000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "value": {
+        "amount": 509071000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2024-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2024-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "value": {
+        "amount": 789806000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "value": {
+        "amount": 701748000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "value": {
+        "amount": 88058000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "value": {
+        "amount": 84643000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "value": {
+        "amount": 66124000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "value": {
+        "amount": 551792000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.equity",
+      "value": {
+        "amount": 299463000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "value": {
+        "amount": 252329000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "source_name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z",
+      "as_of": "2023-12-31",
+      "evidence": "Filed annual accounts for orgnr 919742356, period ending 2023-12-31",
+      "human_url": "https://virksomhet.brreg.no/nb/oppslag/enheter/919742356",
+      "confidence": "high"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "value": false,
+      "source_name": "Company website",
+      "source_url": "https://www.3b-fibreglass.com",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 919742356 in Enhetsregisteret",
+      "human_url": "https://www.3b-fibreglass.com",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.title",
+      "value": "3B-Fibreglass | 3B Fibreglass",
+      "source_name": "Company website",
+      "source_url": "https://www.3b-fibreglass.com",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 919742356 in Enhetsregisteret",
+      "human_url": "https://www.3b-fibreglass.com",
+      "confidence": "medium"
+    },
+    {
+      "key": "web.social_links",
+      "value": [
+        "https://www.linkedin.com/company/3b-the-fibreglass-company/mycompany/"
+      ],
+      "source_name": "Company website",
+      "source_url": "https://www.3b-fibreglass.com",
+      "retrieved_at": "2026-10-14T07:34:08Z",
+      "as_of": null,
+      "evidence": "Homepage listed for 919742356 in Enhetsregisteret",
+      "human_url": "https://www.3b-fibreglass.com",
+      "confidence": "medium"
+    }
+  ],
+  "summary": "3B-FIBREGLASS NORWAY AS (919742356) is registered as Aksjeselskap (AS) based in Birkenes, registered 1995-03-12. Main industry: 23.140 Produksjon av glassfibre. Registered employees: 342. CEO: Frantz Johan Agerbo. Chair: Vishal Bhailal Shah. Filed accounts for 2025: revenue 551 384 000 NOK, net result -95 569 000 NOK. 60 field(s) changed since the previous run.",
+  "changes": [
+    {
+      "key": "activity",
+      "old": null,
+      "new": "Produksjon og salg av glassfibertekstiler og en- hver annen virksomhet i forbindelse med dette. Selskapet skal kunne eie aksjer eller på annen måte delta i andre selskaper eller foretagender med tilsvarende formål.",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "address.business",
+      "old": null,
+      "new": "Tollenesveien 60, 4760 BIRKELAND",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "address.postal",
+      "old": null,
+      "new": "Postboks 42, 4795 BIRKELAND",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "email",
+      "old": null,
+      "new": "birplant@3b-fibreglass.com",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "employees",
+      "old": null,
+      "new": 342,
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "entity_type",
+      "old": null,
+      "new": "hovedenhet",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.equity",
+      "old": null,
+      "new": {
+        "amount": 299463000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.net_profit",
+      "old": null,
+      "new": {
+        "amount": 66124000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 701748000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.operating_profit",
+      "old": null,
+      "new": {
+        "amount": 88058000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": 84643000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.revenue",
+      "old": null,
+      "new": {
+        "amount": 789806000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.total_assets",
+      "old": null,
+      "new": {
+        "amount": 551792000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2023.total_debt",
+      "old": null,
+      "new": {
+        "amount": 252329000.0,
+        "currency": "NOK",
+        "period": "2023-01-01..2023-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.equity",
+      "old": null,
+      "new": {
+        "amount": 232303000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.net_profit",
+      "old": null,
+      "new": {
+        "amount": -77516000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 602464000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.operating_profit",
+      "old": null,
+      "new": {
+        "amount": -87383000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": -100334000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.revenue",
+      "old": null,
+      "new": {
+        "amount": 515081000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.total_assets",
+      "old": null,
+      "new": {
+        "amount": 741374000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2024.total_debt",
+      "old": null,
+      "new": {
+        "amount": 509071000.0,
+        "currency": "NOK",
+        "period": "2024-01-01..2024-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.equity",
+      "old": null,
+      "new": {
+        "amount": 130966000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.net_profit",
+      "old": null,
+      "new": {
+        "amount": -95569000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.operating_expenses",
+      "old": null,
+      "new": {
+        "amount": 623337000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.operating_profit",
+      "old": null,
+      "new": {
+        "amount": -71953000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.profit_before_tax",
+      "old": null,
+      "new": {
+        "amount": -95569000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.revenue",
+      "old": null,
+      "new": {
+        "amount": 551384000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.total_assets",
+      "old": null,
+      "new": {
+        "amount": 739673000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "financials.2025.total_debt",
+      "old": null,
+      "new": {
+        "amount": 608707000.0,
+        "currency": "NOK",
+        "period": "2025-01-01..2025-12-31"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "founded_date",
+      "old": null,
+      "new": "1970-06-09",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "industry.nace1",
+      "old": null,
+      "new": "23.140 Produksjon av glassfibre",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "last_annual_accounts_year",
+      "old": null,
+      "new": "2025",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "legal_form",
+      "old": null,
+      "new": "Aksjeselskap (AS)",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "municipality",
+      "old": null,
+      "new": "BIRKENES (4216)",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "name",
+      "old": null,
+      "new": "3B-FIBREGLASS NORWAY AS",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "phone",
+      "old": null,
+      "new": "37 28 05 00",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "purpose",
+      "old": null,
+      "new": "Produksjon og salg av glassfibertekstiler og en- hver annen virksomhet i forbindelse med dette. Selskapet skal kunne eie aksjer eller på annen måte delta i andre selskaper eller foretagender med tilsvarende formål.",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "registered_date",
+      "old": null,
+      "new": "1995-03-12",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "registers.foretaksregisteret",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "registers.frivillighetsregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "registers.stiftelsesregisteret",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "registers.vat",
+      "old": null,
+      "new": true,
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.DAGL.0",
+      "old": null,
+      "new": {
+        "role": "CEO",
+        "name": "Frantz Johan Agerbo"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.LEDE.1",
+      "old": null,
+      "new": {
+        "role": "Chair",
+        "name": "Vishal Bhailal Shah"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.MEDL.2",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Paul Christian Jensen"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.MEDL.3",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Tom Anders Hartvigsen"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.MEDL.4",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Hans Olaf Birkenes"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.MEDL.5",
+      "old": null,
+      "new": {
+        "role": "Board member",
+        "name": "Deepa Viswanathan"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.REVI.10",
+      "old": null,
+      "new": {
+        "role": "Auditor",
+        "name": "BDO AS",
+        "orgnr": "993606650"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.VARA.6",
+      "old": null,
+      "new": {
+        "role": "Deputy board member",
+        "name": "Alexander Rosseland Finnøy"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.VARA.7",
+      "old": null,
+      "new": {
+        "role": "Deputy board member",
+        "name": "Tone Mollestad"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.VARA.8",
+      "old": null,
+      "new": {
+        "role": "Deputy board member",
+        "name": "Magnus Breimyr Brovig"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "roles.VARA.9",
+      "old": null,
+      "new": {
+        "role": "Deputy board member",
+        "name": "Mathew David Blanco"
+      },
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "sector",
+      "old": null,
+      "new": "2100 Private aksjeselskaper mv.",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "status.distress",
+      "old": null,
+      "new": "none registered",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "web.orgnr_on_homepage",
+      "old": null,
+      "new": false,
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "web.social_links",
+      "old": null,
+      "new": [
+        "https://www.linkedin.com/company/3b-the-fibreglass-company/mycompany/"
+      ],
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "web.title",
+      "old": null,
+      "new": "3B-Fibreglass | 3B Fibreglass",
+      "detected_at": "2026-10-14T07:34:03Z"
+    },
+    {
+      "key": "website",
+      "old": null,
+      "new": "www.3b-fibreglass.com",
+      "detected_at": "2026-10-14T07:34:03Z"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356",
+      "retrieved_at": "2026-10-14T07:34:04Z"
+    },
+    {
+      "name": "Enhetsregisteret (Brønnøysundregistrene) – roller",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/919742356/roller",
+      "retrieved_at": "2026-10-14T07:34:05Z"
+    },
+    {
+      "name": "Regnskapsregisteret (Brønnøysundregistrene)",
+      "url": "https://data.brreg.no/regnskapsregisteret/regnskap/919742356",
+      "retrieved_at": "2026-10-14T07:34:06Z"
+    },
+    {
+      "name": "Company website",
+      "url": "https://www.3b-fibreglass.com",
+      "retrieved_at": "2026-10-14T07:34:08Z"
+    }
+  ],
+  "errors": []
+}
