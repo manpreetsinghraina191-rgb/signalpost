@@ -62,6 +62,8 @@ def build_profile(client: Client, raw_orgnr: str, previous: Profile | None = Non
             website.enrich(client, p)
     except BudgetExceeded as e:
         p.errors.append(str(e))
+        if p.status == "invalid":  # budget ran out before the first lookup; the orgnr itself is valid
+            p.status = "error"
     except Exception as e:
         p.errors.append(f"{type(e).__name__}: {e}")
         if p.status == "invalid":
@@ -87,7 +89,8 @@ def explain(p: Profile) -> str:
     if p.status == "deleted":
         d = p.get("deleted_date")
         return f"{name} ({p.orgnr}) is deleted from Enhetsregisteret{' as of ' + d if d else ''}."
-    bits = [f"{name} ({p.orgnr}) is a {p.get('legal_form') or 'registered unit'}"]
+    form = p.get("legal_form")
+    bits = [f"{name} ({p.orgnr}) is registered as {form}" if form else f"{name} ({p.orgnr}) is a registered unit"]
     if muni := p.get("municipality"):
         bits[0] += f" based in {muni.split(' (')[0].title()}"
     if reg := p.get("registered_date"):
@@ -121,7 +124,7 @@ def load_previous(out_dir: Path, orgnr: str) -> Profile | None:
     path = out_dir / "profiles" / f"{orgnr}.json"
     if path.exists():
         try:
-            return Profile.from_dict(json.loads(path.read_text()))
+            return Profile.from_dict(json.loads(path.read_text(encoding="utf-8")))
         except Exception:
             return None
     return None
@@ -153,7 +156,7 @@ def run_batch(orgnrs: list[str], out_dir: Path, max_requests: int = 1900, deadli
         futures = {ex.submit(work, o): o for o in orgnrs}
         for fut in as_completed(futures):
             p = fut.result()
-            (out_dir / "profiles" / f"{p.orgnr}.json").write_text(json.dumps(p.to_dict(), ensure_ascii=False, indent=2))
+            (out_dir / "profiles" / f"{p.orgnr}.json").write_text(json.dumps(p.to_dict(), ensure_ascii=False, indent=2), encoding="utf-8")
             results[p.orgnr] = p.status
     summary = {
         "companies": len(orgnrs),
@@ -163,5 +166,5 @@ def run_batch(orgnrs: list[str], out_dir: Path, max_requests: int = 1900, deadli
         "external_api_cost_usd": 0.0,
         "finished_at": utcnow_iso(),
     }
-    (out_dir / "run_summary.json").write_text(json.dumps(summary, indent=2))
+    (out_dir / "run_summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
     return summary

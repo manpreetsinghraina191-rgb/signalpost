@@ -86,7 +86,18 @@ class ProfileTests(unittest.TestCase):
         self.assertIn("14 000 000 NOK", self.p.summary)
 
 
+class BudgetClient(FakeClient):
+    def get(self, url, accept=None, **_):
+        from signalpost.http import BudgetExceeded
+        raise BudgetExceeded("outbound request budget of 0 reached")
+
+
 class EdgeCaseTests(unittest.TestCase):
+    def test_budget_exhausted_is_error_not_invalid(self):
+        p = build_profile(BudgetClient({}), ORG)
+        self.assertEqual(p.status, "error")
+        self.assertIn("budget", p.summary)
+
     def test_invalid(self):
         p = build_profile(FakeClient({}), "123456789")
         self.assertEqual(p.status, "invalid")

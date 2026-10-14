@@ -74,7 +74,7 @@ class Client:
             return None
         if time.time() - path.stat().st_mtime > self.cache_ttl_s:
             return None
-        d = json.loads(path.read_text())
+        d = json.loads(path.read_text(encoding="utf-8"))
         return Response(d["url"], d["status"], d["body"].encode("utf-8"), d["content_type"], d["fetched_at"], True)
 
     def _cache_put(self, r: Response) -> None:
@@ -83,7 +83,7 @@ class Client:
             path.write_text(json.dumps({
                 "url": r.url, "status": r.status, "content_type": r.content_type,
                 "fetched_at": r.fetched_at, "body": r.body.decode("utf-8", errors="replace"),
-            }))
+            }), encoding="utf-8")
 
     # -- fetch ---------------------------------------------------------------
     def _reserve(self) -> None:

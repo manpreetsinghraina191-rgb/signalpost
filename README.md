@@ -12,6 +12,10 @@ python -m signalpost profile 923609016             # one company to stdout
 python -m signalpost seed --count 1200 > orgnrs.txt  # sample 1,200 active AS orgnrs from Enhetsregisteret
 ```
 
+Each active company costs about 3–4 requests, so the default cap of 1,900 covers roughly 500–600 companies per run (comfortably more than a daily test of 100). To build the 1,000+ submission set in one go, raise the cap: `--max-requests 5000`. Re-running the same command also works: cached responses (6 h) don't count against the budget.
+
+On Windows, create `orgnrs.txt` from Git Bash or `cmd` rather than PowerShell 5.1 (whose `>` writes UTF-16), and set `PYTHONIOENCODING=utf-8` when printing profiles to the console.
+
 Python 3.10+, standard library only (no `pip install` needed). Tests: `python -m unittest discover -s tests`.
 
 ## Architecture

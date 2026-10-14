@@ -17,7 +17,7 @@ from .http import Client
 
 
 def _read_orgnrs(path: str) -> list[str]:
-    text = sys.stdin.read() if path == "-" else Path(path).read_text()
+    text = sys.stdin.read() if path == "-" else Path(path).read_text(encoding="utf-8-sig")
     seen, out = set(), []
     for line in text.splitlines():
         o = line.split(",")[0].strip()
